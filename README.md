@@ -8,5 +8,5 @@ I currently work at [Kviknet ApS](https://kviknet.dk/) / [EWII](https://www.ewii
 
 - 🔭 I’m currently working on revamping my own website & a beginners guide to PHP on Windows. 
 - 🌱 I’m currently learning React JS, Rust & C#.
-- 💬 Ask me about anything realated to PHP & [Laravel](https://laravel.com)
+- 💬 Ask me about anything related to PHP & [Laravel](https://laravel.com)
 - 📫 How to reach me: [mathias.jorqensen@gmail.com](mailto:mathias.jorqensen@gmail.com) / [@jorqensen](https://twitter.com/jorqensen) 
