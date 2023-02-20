@@ -6,7 +6,7 @@ Throughout the last 10+ years I've been working with PHP, while the last 2 years
 
 I currently work at [Ordbogen A/S](https://www.ordbogen.com/en/#/).
 
-- 🔭 I’m currently working on revamping my website.
-- 🦀 I’m currently learning Rust.
+- 🔭 Working on revamping my website.
+- 🦀 Learning Rust.
 - 💬 Ask me about anything related to PHP & [Laravel](https://laravel.com).
 - 📫 How to reach me: [hello@jorqensen.dev](mailto:hello@jorqensen.dev) / [@jorqensen](https://twitter.com/jorqensen)
