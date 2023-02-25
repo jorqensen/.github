@@ -10,3 +10,4 @@ I currently work at [Ordbogen A/S](https://www.ordbogen.com/en/#/).
 - 🦀 Learning Rust.
 - 💬 Ask me about anything related to PHP & [Laravel](https://laravel.com).
 - 📫 How to reach me: [hello@jorqensen.dev](mailto:hello@jorqensen.dev) / [@jorqensen](https://twitter.com/jorqensen)
+- 🍺 If I've helped you out and you want to show appreciation, [feel free to buy me a beer!](https://www.buymeacoffee.com/jorqensen)
